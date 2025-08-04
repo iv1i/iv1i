@@ -1,0 +1,82 @@
+<p align="center"><img src="icons/avatar.png" width="200" alt="Logo"></p><a id='links'></a>
+<h1 align="center">Привет <img src="icons/text.png" width="45">, Я ivi</h1>
+<h2 align="center">PHP/Laravel разработчик и специалист по информационной безопасности</h2>
+
+<p align="center">
+</p>
+
+---
+
+## <img src="icons/tools.png" width="40" align="absmiddle"> Мой стек технологий:
+
+### **Разработка:**
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="icons/php.png" width="60"></td>
+      <td align="center"><img src="icons/Laravel.png" width="60"></td>
+      <td align="center"><img src="icons/mysql.png" width="60"></td>
+      <td align="center"><img src="icons/docker.png" width="60"></td>
+      <td align="center"><img src="icons/redis.png" width="60"></td>
+      <td align="center"><img src="icons/nginx.png" width="60"></td>
+      <td align="center"><img src="icons/insomnia.png" width="60"></td>
+      <td align="center"><img src="icons/git.png" width="60"></td>
+      <td align="center"><img src="icons/bash.png" width="60"></td>
+      <td align="center"><img src="icons/github.png" width="60"></td>
+    </tr>
+    <tr>
+      <td align="center"><span style="color: #174fe8; font-size: large; font-weight: 600;">PHP</span></td>
+      <td align="center"><span style="color: #ff0000; font-size: large; font-weight: 600;">Laravel</span></td>
+      <td align="center"><span style="color: #589fd5; font-size: large; font-weight: 600;">MySQL</span></td>
+      <td align="center"><span style="color: #006bc0; font-size: large; font-weight: 600;">Docker</span></td>
+      <td align="center"><span style="color: #d82c20; font-size: large; font-weight: 600;">Redis</span></td>
+      <td align="center"><span style="color: #009639; font-size: large; font-weight: 600;">Nginx</span></td>
+      <td align="center"><span style="color: #6400d7; font-size: large; font-weight: 600;">Insomnia</span></td>
+      <td align="center"><span style="color: #dc5b33; font-size: large; font-weight: 600;">Git</span></td>
+      <td align="center"><span style="color: #fff; font-size: large; font-weight: 600;">Bash</span></td>
+      <td align="center"><span style="color: #fff; font-size: large; font-weight: 600;">GitHub</span></td>
+    </tr>
+  </table>
+</div>
+
+
+
+### **Информационная безопасность:**
+  <table>
+    <tr>
+      <td align="center"><img src="icons/kali.png" width="70"></td>
+      <td align="center"><img src="icons/burp.png" width="65"></td>
+      <td align="center"><img src="icons/shark.png" width="80"></td>
+      <td align="center"><img src="icons/wifite.png" width="55"></td>
+      <td align="center"><img src="icons/injection.png" width="55"></td>
+      <td align="center"><img src="icons/folder.png" width="55"></td>
+      <td align="center"><img src="icons/nc.png" width="55"></td>
+      <td align="center"><img src="icons/eye.png" width="60"></td>
+    </tr>
+    <tr>
+      <td align="center"><span style="color: #19a0ff; font-size: large; font-weight: 600;">Kali Linux</span></td>
+      <td align="center"><span style="color: #eb5e32; font-size: large; font-weight: 600;">BurpSuite</span></td>
+      <td align="center"><span style="color: #2a469f; font-size: large; font-weight: 600;">Wireshark</span></td>
+      <td align="center"><span style="color: #3a9e70; font-size: large; font-weight: 600;">Wifite</span></td>
+      <td align="center"><span style="color: #fcc624; font-size: large; font-weight: 600;">SQLMap</span></td>
+      <td align="center"><span style="color: #a2d7ff; font-size: large; font-weight: 600;">DirB</span></td>
+      <td align="center"><span style="color: #2f70b0; font-size: large; font-weight: 600;">NetCat</span></td>
+      <td align="center"><span style="color: #005eb0; font-size: large; font-weight: 600;">Nmap</span></td>
+    </tr>
+  </table>
+
+
+### **DevOps & Tools:**
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## <img src="icons/match.png" width="40" align="absmiddle"> Мои проекты:
+
+### 1. **[Libry](ссылка)** - Минималистичный REST API реестр книг в библиотеке
+### 2. **[TinyStore](ссылка)** - Минималистичный REST API интернет-магазин
+
+---
