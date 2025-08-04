@@ -5,7 +5,7 @@
 <p align="center">
 </p>
 
-## <img src="icons/box.png" width="40" align="absmiddle"> Мой стек технологий:
+## <img src="icons/tools.png" width="40" align="absmiddle"> Мой стек технологий:
 
 ### **Разработка:**
 <div>
@@ -65,7 +65,7 @@
   </table>
 </div>
 
-## <img src="icons/match-fire.png" width="40" align="absmiddle"> Мои проекты:
+## <img src="icons/match-fire.png" width="45" align="absmiddle"> Мои проекты:
 
 ### 1. **[Libry](https://github.com/iiivwviii/Libry)** - Минималистичный REST API реестр книг в библиотеке
 ### 2. **[TinyStore](https://github.com/iiivwviii/TinyStore)** - Минималистичный REST API интернет-магазин
