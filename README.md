@@ -1,13 +1,12 @@
 <p align="center"><img src="gif/tyan1.gif" alt="Logo"></p><a id='links'></a>
 <h1 align="center"> Привет! <img src="icons/text.png" width="60">, Я ivi</h1>
-<h2 align="center">PHP/Laravel разработчик и специалист по информационной безопасности</h2>
+<h1 align="center">PHP/Laravel разработчик и специалист по информационной безопасности</h1>
 
 <p align="center">
 </p>
 
 ## <img src="icons/tools.png" width="40" align="absmiddle"> Мой стек технологий:
 
-### **Разработка:**
 <div>
   <table>
     <tr>
@@ -36,8 +35,6 @@
     </tr>
   </table>
 </div>
-
-### **Информационная безопасность:**
 <div>
   <table>
     <tr>
