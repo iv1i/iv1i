@@ -1,11 +1,11 @@
 <p align="center"><img src="gif/tyan1.gif" alt="Logo"></p><a id='links'></a>
-<h1 align="center">Привет <img src="icons/text.png" width="45">, Я ivi</h1>
+<h1 align="center"> Привет! <img src="icons/text.png" width="60">, Я ivi</h1>
 <h2 align="center">PHP/Laravel разработчик и специалист по информационной безопасности</h2>
 
 <p align="center">
 </p>
 
-## <img src="icons/tools.png" width="40" align="absmiddle"> Мой стек технологий:
+## <img src="icons/box.png" width="40" align="absmiddle"> Мой стек технологий:
 
 ### **Разработка:**
 <div>
@@ -65,7 +65,7 @@
   </table>
 </div>
 
-## <img src="icons/match.png" width="40" align="absmiddle"> Мои проекты:
+## <img src="icons/match-fire.png" width="40" align="absmiddle"> Мои проекты:
 
 ### 1. **[Libry](https://github.com/iiivwviii/Libry)** - Минималистичный REST API реестр книг в библиотеке
 ### 2. **[TinyStore](https://github.com/iiivwviii/TinyStore)** - Минималистичный REST API интернет-магазин
