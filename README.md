@@ -72,7 +72,7 @@
 #### 1. **[SpamBot](https://github.com/iiivwviii/Spam_Bot_GUI)** - Бот для автоматического ввода текста
 #### 1. **[SpamQ](https://github.com/iiivwviii/SpamQ)** - Макрос для нажатия клавиш Q и W
 
-### <img src="icons/sh.png" width="45" align="absmiddle">Bash: 
+### <img src="icons/sh.png" width="35" align="absmiddle">Bash: 
 #### 1. **[AddPass](https://github.com/iiivwviii/AddPass)** - Скрипт для установки пароля приложению
 
 
