@@ -22,7 +22,7 @@
       <td align="center"><span style="color: #fff; font-size: large; font-weight: 600;">GitHub</span></td>
     </tr>
     <tr>
-      <td align="center"><img src="icons/php.png" width="60"></td>
+      <td align="center"><img src="icons/php.png" width="60p"></td>
       <td align="center"><img src="icons/Laravel.png" width="60"></td>
       <td align="center"><img src="icons/mysql.png" width="60"></td>
       <td align="center"><img src="icons/docker.png" width="60"></td>
@@ -45,8 +45,8 @@
       <td align="center"><span style="color: #fcc624; font-size: large; font-weight: 600;">SQLMap</span></td>
       <td align="center"><span style="color: #a2d7ff; font-size: large; font-weight: 600;">DirB</span></td>
       <td align="center"><span style="color: #2f70b0; font-size: large; font-weight: 600;">NetCat</span></td>
-      <td align="center"><span style="color: #005eb0; font-size: large; font-weight: 600;">Nmap</span></td>
       <td align="center"><span style="color: #009639; font-size: large; font-weight: 600;">Hydra</span></td>
+      <td align="center"><span style="color: #005eb0; font-size: large; font-weight: 600;">Nmap</span></td>
 </tr>
     <tr>
       <td align="center"><img src="icons/kali.png" width="70"></td>
@@ -56,8 +56,8 @@
       <td align="center"><img src="icons/injection.png" width="55"></td>
       <td align="center"><img src="icons/folder.png" width="55"></td>
       <td align="center"><img src="icons/nc.png" width="50"></td>
+      <td align="center"><img src="icons/hydra.png" width="60"></td>
       <td align="center"><img src="icons/eye.png" width="60"></td>
-      <td align="center"><img src="icons/dragon.png" width="60"></td>
     </tr>
   </table>
 </div>
@@ -65,9 +65,14 @@
 ## <img src="icons/match-fire.png" width="45" align="absmiddle"> Мои проекты:
 
 ### <img src="icons/web.png" width="30" align="absmiddle"> Web: 
-### 1. **[Libry](https://github.com/iiivwviii/Libry)** - Минималистичный REST API реестр книг в библиотеке
-### 2. **[TinyStore](https://github.com/iiivwviii/TinyStore)** - Минималистичный REST API интернет-магазин
+#### 1. **[Libry](https://github.com/iiivwviii/Libry)** - Минималистичный REST API реестр книг в библиотеке
+#### 2. **[TinyStore](https://github.com/iiivwviii/TinyStore)** - Минималистичный REST API интернет-магазин
+
+### <img src="icons/python.png" width="30" align="absmiddle"> Python:
+#### 1. **[SpamBot](https://github.com/iiivwviii/Spam_Bot_GUI)** - Бот для автоматического ввода текста
+#### 1. **[SpamQ](https://github.com/iiivwviii/SpamQ)** - Макрос для нажатия клавиш Q и W
 
 ### <img src="icons/sh.png" width="45" align="absmiddle">Bash: 
+#### 1. **[AddPass](https://github.com/iiivwviii/AddPass)** - Скрипт для установки пароля приложению
 
 
