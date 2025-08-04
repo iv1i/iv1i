@@ -13,18 +13,6 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="icons/php.png" width="60"></td>
-      <td align="center"><img src="icons/Laravel.png" width="60"></td>
-      <td align="center"><img src="icons/mysql.png" width="60"></td>
-      <td align="center"><img src="icons/docker.png" width="60"></td>
-      <td align="center"><img src="icons/redis.png" width="60"></td>
-      <td align="center"><img src="icons/nginx.png" width="60"></td>
-      <td align="center"><img src="icons/insomnia.png" width="60"></td>
-      <td align="center"><img src="icons/git.png" width="60"></td>
-      <td align="center"><img src="icons/bash.png" width="60"></td>
-      <td align="center"><img src="icons/github.png" width="60"></td>
-    </tr>
-    <tr>
       <td align="center"><span style="color: #174fe8; font-size: large; font-weight: 600;">PHP</span></td>
       <td align="center"><span style="color: #ff0000; font-size: large; font-weight: 600;">Laravel</span></td>
       <td align="center"><span style="color: #589fd5; font-size: large; font-weight: 600;">MySQL</span></td>
@@ -36,6 +24,18 @@
       <td align="center"><span style="color: #fff; font-size: large; font-weight: 600;">Bash</span></td>
       <td align="center"><span style="color: #fff; font-size: large; font-weight: 600;">GitHub</span></td>
     </tr>
+    <tr>
+      <td align="center"><img src="icons/php.png" width="60"></td>
+      <td align="center"><img src="icons/Laravel.png" width="60"></td>
+      <td align="center"><img src="icons/mysql.png" width="60"></td>
+      <td align="center"><img src="icons/docker.png" width="60"></td>
+      <td align="center"><img src="icons/redis.png" width="60"></td>
+      <td align="center"><img src="icons/nginx.png" width="60"></td>
+      <td align="center"><img src="icons/insomnia.png" width="60"></td>
+      <td align="center"><img src="icons/git.png" width="60"></td>
+      <td align="center"><img src="icons/bash.png" width="60"></td>
+      <td align="center"><img src="icons/github.png" width="60"></td>
+    </tr>
   </table>
 </div>
 
@@ -43,16 +43,6 @@
 
 ### **Информационная безопасность:**
   <table>
-    <tr>
-      <td align="center"><img src="icons/kali.png" width="70"></td>
-      <td align="center"><img src="icons/burp.png" width="65"></td>
-      <td align="center"><img src="icons/shark.png" width="80"></td>
-      <td align="center"><img src="icons/wifite.png" width="55"></td>
-      <td align="center"><img src="icons/injection.png" width="55"></td>
-      <td align="center"><img src="icons/folder.png" width="55"></td>
-      <td align="center"><img src="icons/nc.png" width="55"></td>
-      <td align="center"><img src="icons/eye.png" width="60"></td>
-    </tr>
     <tr>
       <td align="center"><span style="color: #19a0ff; font-size: large; font-weight: 600;">Kali Linux</span></td>
       <td align="center"><span style="color: #eb5e32; font-size: large; font-weight: 600;">BurpSuite</span></td>
@@ -62,6 +52,16 @@
       <td align="center"><span style="color: #a2d7ff; font-size: large; font-weight: 600;">DirB</span></td>
       <td align="center"><span style="color: #2f70b0; font-size: large; font-weight: 600;">NetCat</span></td>
       <td align="center"><span style="color: #005eb0; font-size: large; font-weight: 600;">Nmap</span></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="icons/kali.png" width="70"></td>
+      <td align="center"><img src="icons/burp.png" width="65"></td>
+      <td align="center"><img src="icons/shark.png" width="80"></td>
+      <td align="center"><img src="icons/wifite.png" width="55"></td>
+      <td align="center"><img src="icons/injection.png" width="55"></td>
+      <td align="center"><img src="icons/folder.png" width="55"></td>
+      <td align="center"><img src="icons/nc.png" width="55"></td>
+      <td align="center"><img src="icons/eye.png" width="60"></td>
     </tr>
   </table>
 
