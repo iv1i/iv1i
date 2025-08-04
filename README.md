@@ -1,4 +1,4 @@
-<p align="center"><img src="icons/avatar.png" width="200" alt="Logo"></p><a id='links'></a>
+<p align="center"><img src="gif/tyan1.gif" alt="Logo"></p><a id='links'></a>
 <h1 align="center">Привет <img src="icons/text.png" width="45">, Я ivi</h1>
 <h2 align="center">PHP/Laravel разработчик и специалист по информационной безопасности</h2>
 
@@ -49,7 +49,8 @@
       <td align="center"><span style="color: #a2d7ff; font-size: large; font-weight: 600;">DirB</span></td>
       <td align="center"><span style="color: #2f70b0; font-size: large; font-weight: 600;">NetCat</span></td>
       <td align="center"><span style="color: #005eb0; font-size: large; font-weight: 600;">Nmap</span></td>
-    </tr>
+      <td align="center"><span style="color: #009639; font-size: large; font-weight: 600;">Hydra</span></td>
+</tr>
     <tr>
       <td align="center"><img src="icons/kali.png" width="70"></td>
       <td align="center"><img src="icons/burp.png" width="65"></td>
@@ -59,6 +60,7 @@
       <td align="center"><img src="icons/folder.png" width="55"></td>
       <td align="center"><img src="icons/nc.png" width="50"></td>
       <td align="center"><img src="icons/eye.png" width="60"></td>
+      <td align="center"><img src="icons/dragon.png" width="60"></td>
     </tr>
   </table>
 </div>
