@@ -64,7 +64,10 @@
 
 ## <img src="icons/match-fire.png" width="45" align="absmiddle"> Мои проекты:
 
+### <img src="icons/web.png" width="30" align="absmiddle"> Web: 
 ### 1. **[Libry](https://github.com/iiivwviii/Libry)** - Минималистичный REST API реестр книг в библиотеке
 ### 2. **[TinyStore](https://github.com/iiivwviii/TinyStore)** - Минималистичный REST API интернет-магазин
+
+### <img src="icons/sh.png" width="45" align="absmiddle">Bash: 
 
 
