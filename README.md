@@ -5,8 +5,6 @@
 <p align="center">
 </p>
 
----
-
 ## <img src="icons/tools.png" width="40" align="absmiddle"> Мой стек технологий:
 
 ### **Разработка:**
@@ -65,11 +63,9 @@
     </tr>
   </table>
 
----
-
 ## <img src="icons/match.png" width="40" align="absmiddle"> Мои проекты:
 
 ### 1. **[Libry](ссылка)** - Минималистичный REST API реестр книг в библиотеке
 ### 2. **[TinyStore](ссылка)** - Минималистичный REST API интернет-магазин
 
----
+
