@@ -7,6 +7,7 @@
 
 ## <img src="icons/tools.png" width="40" align="absmiddle"> Мой стек технологий:
 
+### Разработка:
 <div>
   <table>
     <tr>
@@ -35,6 +36,8 @@
     </tr>
   </table>
 </div>
+
+### Информационная безопасность:
 <div>
   <table>
     <tr>
