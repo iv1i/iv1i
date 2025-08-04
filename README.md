@@ -65,7 +65,7 @@
 
 ## <img src="icons/match.png" width="40" align="absmiddle"> Мои проекты:
 
-### 1. **[Libry](ссылка)** - Минималистичный REST API реестр книг в библиотеке
-### 2. **[TinyStore](ссылка)** - Минималистичный REST API интернет-магазин
+### 1. **[Libry](https://github.com/iiivwviii/Libry)** - Минималистичный REST API реестр книг в библиотеке
+### 2. **[TinyStore](https://github.com/iiivwviii/TinyStore)** - Минималистичный REST API интернет-магазин
 
 
