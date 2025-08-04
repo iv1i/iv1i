@@ -58,7 +58,7 @@
       <td align="center"><img src="icons/wifite.png" width="55"></td>
       <td align="center"><img src="icons/injection.png" width="55"></td>
       <td align="center"><img src="icons/folder.png" width="55"></td>
-      <td align="center"><img src="icons/nc.png" width="55"></td>
+      <td align="center"><img src="icons/nc.png" width="50"></td>
       <td align="center"><img src="icons/eye.png" width="60"></td>
     </tr>
   </table>
