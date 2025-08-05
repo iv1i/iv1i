@@ -73,7 +73,7 @@
 
 ### <img src="icons/python.png" width="30" align="absmiddle"> Python:
 #### 1. **[SpamBot](https://github.com/iiivwviii/Spam_Bot_GUI)** - Бот для автоматического ввода текста
-#### 1. **[SpamQ](https://github.com/iiivwviii/SpamQ)** - Макрос для нажатия клавиш Q/W
+#### 2. **[SpamQ](https://github.com/iiivwviii/SpamQ)** - Макрос для нажатия клавиш Q/W
 
 ### <img src="icons/sh.png" width="35" align="absmiddle"> Bash: 
 #### 1. **[AddPass](https://github.com/iiivwviii/AddPass)** - Установка пароля для приложений
