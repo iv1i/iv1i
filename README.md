@@ -67,7 +67,10 @@
 
 ## <img src="icons/match-fire.png" width="45" align="absmiddle"> Мои проекты:
 
-### <img src="icons/web.png" width="30" align="absmiddle"> Web: 
+### <img src="icons/web.png" width="30" align="absmiddle"> Web:
+#### 1. **[Jury-App (<img src="icons/lock.png" width="20" align="absmiddle">)](https://github.com/iiivwviii/Jury-App)** - Журийная система для CTF соревнований
+
+### <img src="icons/api.png" width="30" align="absmiddle"> Api: 
 #### 1. **[Libry](https://github.com/iiivwviii/Libry)** - Минималистичный REST API реестр книг в библиотеке
 #### 2. **[TinyStore](https://github.com/iiivwviii/TinyStore)** - Минималистичный REST API интернет-магазин
 
