@@ -20,7 +20,7 @@
       <td align="center"><span style="color: #009639; font-size: large; font-weight: 600;">Nginx</span></td>
       <td align="center"><span style="color: #dc5b33; font-size: large; font-weight: 600;">Git</span></td>
       <td align="center"><span style="color: #fff; font-size: large; font-weight: 600;">Bash</span></td>
-</tr>
+    </tr>
     <tr>
       <td align="center"><img src="icons/php.png" width="60p"></td>
       <td align="center"><img src="icons/Laravel.png" width="60"></td>
@@ -31,7 +31,6 @@
       <td align="center"><img src="icons/nginx.png" width="55"></td>
       <td align="center"><img src="icons/git.png" width="60"></td>
       <td align="center"><img src="icons/bash.png" width="60"></td>
-
     </tr>
   </table>
 </div>
