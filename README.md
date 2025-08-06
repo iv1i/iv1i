@@ -28,7 +28,7 @@
       <td align="center"><img src="icons/mongo.png" width="60"></td>
       <td align="center"><img src="icons/docker.png" width="60"></td>
       <td align="center"><img src="icons/redis.png" width="60"></td>
-      <td align="center"><img src="icons/nginx.png" width="60"></td>
+      <td align="center"><img src="icons/nginx.png" width="55"></td>
       <td align="center"><img src="icons/git.png" width="60"></td>
       <td align="center"><img src="icons/bash.png" width="60"></td>
 
