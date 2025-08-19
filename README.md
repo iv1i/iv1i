@@ -78,5 +78,6 @@
 
 ### <img src="icons/sh.png" width="35" align="absmiddle"> Bash: 
 #### 1. **[AddPass](https://github.com/iiivwviii/AddPass)** - Установка пароля для приложений
+#### 2. **[Vpn-app](https://github.com/iiivwviii/vpn-app)** - Управление WireGuard интерфейсом up/down
 
 
