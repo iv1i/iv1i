@@ -69,15 +69,15 @@
 #### 1. **[Jury-App (<img src="icons/lock.png" width="18" align="absmiddle">)](https://github.com/iiivwviii/Jury-App)** - Журийная система для CTF соревнований (в разработке...)
 
 ### <img src="icons/api.png" width="30" align="absmiddle"> Api: 
-#### 1. **[Libry](https://github.com/iiivwviii/Libry)** - Минималистичный REST API реестр книг в библиотеке
-#### 2. **[TinyStore](https://github.com/iiivwviii/TinyStore)** - Минималистичный REST API интернет-магазин
+#### 1. **[Libry](https://github.com/iv1i/Libry)** - Минималистичный REST API реестр книг в библиотеке
+#### 2. **[TinyStore](https://github.com/iv1i/TinyStore)** - Минималистичный REST API интернет-магазин
 
 ### <img src="icons/python.png" width="30" align="absmiddle"> Python:
-#### 1. **[SpamBot](https://github.com/iiivwviii/Spam_Bot_GUI)** - Бот для автоматического ввода текста
-#### 2. **[SpamQ](https://github.com/iiivwviii/SpamQ)** - Макрос для нажатия клавиш Q/W
+#### 1. **[SpamBot](https://github.com/iv1i/Spam_Bot_GUI)** - Бот для автоматического ввода текста
+#### 2. **[SpamQ](https://github.com/iv1i/SpamQ)** - Макрос для нажатия клавиш Q/W
 
 ### <img src="icons/sh.png" width="35" align="absmiddle"> Bash: 
-#### 1. **[AddPass](https://github.com/iiivwviii/AddPass)** - Установка пароля для приложений
-#### 2. **[Vpn-app](https://github.com/iiivwviii/vpn-app)** - Управление WireGuard интерфейсом up/down
+#### 1. **[AddPass](https://github.com/iv1i/AddPass)** - Установка пароля для приложений
+#### 2. **[Vpn-app](https://github.com/iv1i/vpn-app)** - Управление WireGuard интерфейсом up/down
 
 
