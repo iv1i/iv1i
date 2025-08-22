@@ -66,7 +66,7 @@
 ## <img src="icons/match-fire.png" width="45" align="absmiddle"> Мои проекты:
 
 ### <img src="icons/web.png" width="30" align="absmiddle"> Web:
-#### 1. **[Jury-App (<img src="icons/lock.png" width="18" align="absmiddle">)](https://github.com/iiivwviii/Jury-App)** - Журийная система для CTF соревнований (в разработке...)
+#### 1. **[Jury-App](https://github.com/iv1i/Jury-App)** - Журийная система для CTF соревнований (Бета)
 #### 2. **[Connecto-App](https://github.com/iv1i/Connecto-App)** - Минималистичный REST API мессенджер с веб-версией
 
 ### <img src="icons/api.png" width="30" align="absmiddle"> Api: 
