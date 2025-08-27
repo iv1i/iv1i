@@ -67,11 +67,11 @@
 
 ### <img src="icons/web.png" width="30" align="absmiddle"> Web:
 #### 1. **[Jury-App](https://github.com/iv1i/Jury-App)** - Журийная система для CTF соревнований (Бета)
-#### 2. **[Connecto-App](https://github.com/iv1i/Connecto-App)** - Минималистичный REST API мессенджер с веб-клиентом
 
 ### <img src="icons/api.png" width="30" align="absmiddle"> Api: 
 #### 1. **[Libry](https://github.com/iv1i/Libry)** - Минималистичный REST API реестр книг в библиотеке
 #### 2. **[TinyStore](https://github.com/iv1i/TinyStore)** - Минималистичный REST API интернет-магазин
+#### 3. **[Connecto-App](https://github.com/iv1i/Connecto-App)** - Минималистичный REST API мессенджер с веб-клиентом
 
 ### <img src="icons/python.png" width="30" align="absmiddle"> Python:
 #### 1. **[SpamBot](https://github.com/iv1i/Spam_Bot_GUI)** - Бот для автоматического ввода текста
