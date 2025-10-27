@@ -67,6 +67,8 @@
 
 ### <img src="icons/web.png" width="30" align="absmiddle"> Web:
 #### 1. **[Jury-App](https://github.com/iv1i/Jury-App)** - Журийная система для CTF соревнований (Бета)
+#### 2. **[userHub](https://github.com/iv1i/userHub)** - Web-интерфейс для администрирования записей в БД (без фреймворков)
+
 
 ### <img src="icons/api.png" width="30" align="absmiddle"> Api: 
 #### 1. **[Libry](https://github.com/iv1i/Libry)** - Минималистичный REST API реестр книг в библиотеке
