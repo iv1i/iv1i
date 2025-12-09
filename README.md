@@ -1,4 +1,4 @@
-<p align="center"><img src="gif/tyan1.gif" alt="Logo"></p><a id='links'></a>
+<p align="center"><img src="gif/tyan1.gif"  alt="Logo"></p><a id='links'></a>
 <h1 align="center"> Привет! <img src="icons/text.png" width="60">, Я ivi</h1>
 <h1 align="center">PHP/Laravel разработчик и специалист по информационной безопасности</h1>
 
