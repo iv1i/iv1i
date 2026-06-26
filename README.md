@@ -66,7 +66,7 @@
 ## <img src="icons/match-fire.png" width="45" align="absmiddle"> Мои проекты:
 
 ### <img src="icons/web.png" width="30" align="absmiddle"> Web:
-#### 1. **[Jury-App](https://github.com/iv1i/Jury-App)** - Журийная система для CTF соревнований (Бета)
+#### 1. **[Jury-App](https://github.com/iv1i/Jury-App)** - Журийная система для CTF соревнований
 #### 2. **[userHub](https://github.com/iv1i/userHub)** - Web-интерфейс для администрирования записей в БД (без фреймворков)
 
 
